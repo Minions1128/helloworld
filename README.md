@@ -2,6 +2,8 @@
 
 This project is for testing.
 
+![](https://github.com/Minions1128/helloworld/blob/master/jpg/minions_18318978.jpg)
+
 ## Git 简单命令
 
 ### 配置Git

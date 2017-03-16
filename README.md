@@ -39,3 +39,9 @@ www.google.com.hk
 选择putty秘钥，公钥粘贴在https://github.com/settings/keys的New SSH key里；私钥自己保存。
 
 ### Push一个项目
+
+编辑完文件之后，先要commit，然后再进行push
+
+### 管理远端
+
+右击 -- 设置 -- Git -- 远端 进行管理

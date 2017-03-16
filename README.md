@@ -35,8 +35,15 @@ www.google.com.hk
 ### Pull第一个项目
 
 新建文件 -- 右击 -- Git这里创建版本库
-选择Pull一个项目，如：git@github.com:Minions1128/helloworld.git
-选择putty秘钥，公钥粘贴在https://github.com/settings/keys的New SSH key里；私钥自己保存。
+选择Pull一个项目，如：
+
+git@github.com:Minions1128/helloworld.git
+
+选择putty秘钥，公钥粘贴在
+
+https://github.com/settings/keys
+
+的New SSH key里；私钥自己保存。
 
 ### Push一个项目
 

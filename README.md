@@ -2,7 +2,7 @@
 
 This project is for testing.
 
-![](https://github.com/Minions1128/helloworld/blob/master/jpg/minions_18318978.jpg)
+![](https://github.com/Minions1128/helloworld/blob/master/img/minions_18318978.jpg)
 
 ## Git 简单命令
 
